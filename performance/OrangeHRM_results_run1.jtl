@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1792351650335,1680,OrangeHRM Login Page,200,OK,Thread Group 1-1,text,true,,4480,160,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,1672,0,1346
+1792351652127,320,OrangeHRM Login Page,200,OK,Thread Group 1-1,text,true,,4495,160,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,320,0,0
+1792351652561,335,OrangeHRM Login Page,200,OK,Thread Group 1-1,text,true,,4481,160,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,335,0,0
+1792351653009,320,OrangeHRM Login Page,200,OK,Thread Group 1-1,text,true,,4492,160,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,320,0,0
+1792351653431,374,OrangeHRM Login Page,200,OK,Thread Group 1-1,text,true,,4501,160,1,1,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,374,0,0

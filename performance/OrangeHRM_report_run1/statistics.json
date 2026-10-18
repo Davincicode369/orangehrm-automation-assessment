@@ -1,0 +1,34 @@
+{
+  "OrangeHRM Login Page" : {
+    "transaction" : "OrangeHRM Login Page",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 605.8,
+    "medianResTime" : 335.0,
+    "minResTime" : 320.0,
+    "maxResTime" : 1680.0,
+    "pct1ResTime" : 1680.0,
+    "pct2ResTime" : 1680.0,
+    "pct3ResTime" : 1680.0,
+    "throughput" : 1.440922190201729,
+    "receivedKBytesPerSec" : 6.31782465778098,
+    "sentKBytesPerSec" : 0.22514409221902015
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 605.8,
+    "medianResTime" : 335.0,
+    "minResTime" : 320.0,
+    "maxResTime" : 1680.0,
+    "pct1ResTime" : 1680.0,
+    "pct2ResTime" : 1680.0,
+    "pct3ResTime" : 1680.0,
+    "throughput" : 1.440922190201729,
+    "receivedKBytesPerSec" : 6.31782465778098,
+    "sentKBytesPerSec" : 0.22514409221902015
+  }
+}
